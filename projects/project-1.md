@@ -5,7 +5,7 @@ image: images/ncbi-inspector.png
 title: NCBI Inspector
 permalink: projects/ncbi
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-10-10
 labels:
   - Javascript
   - Ajax
@@ -42,3 +42,4 @@ byte ADCRead(byte ch)
 
 
 
+Source: <a href="https://github.com/summer-mute/NCBI-Model-Organism-Inspector"><i class="large github icon"></i>NCBI-Model-Organism-Inspector</a>
