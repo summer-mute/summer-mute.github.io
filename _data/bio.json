@@ -6,24 +6,24 @@
     "email": "signal.space@pm.me",
     "phone": "310-291-1899",
     "website": "https://summer-mute.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I have a B.S. in general science from the University of Oregon and I recently completed a full stack development bootcamp through the Universit of Texas at Austin.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "78704",
+      "city": "Austin",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "github",
         "username": "summer-mute",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/summer-mute"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Jack Muprhy",
+        "url": "https://www.linkedin.com/in/jack-murphy-985805168/"
       }
     ]
   },
